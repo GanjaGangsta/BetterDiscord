@@ -48,9 +48,14 @@
 
 /*Friends list*/
 
-.large-.image-33JSyf, .wrapper-2F3Zv8, .inner-1W0Bkn{
-    height: 35px;
-    width: 35px;
+.large-.image-33JSyf, .wrapper-2F3Zv8, .inner-1W0Bkn {
+    height: 100px;
+    width: 100px;
+    border-radius: 10%;
+}
+.large-3ChYtB {
+    height: 45px;
+    width: 45px;
     border-radius: 10%;
 }
 .name-2WpE7M{
