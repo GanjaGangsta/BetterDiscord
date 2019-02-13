@@ -13,6 +13,10 @@
     background-color: #1d1d1dbd;
 }
 
+.headerNormal-T_seeN {
+    height: 200px;
+}
+
 .channel-2QD9_O.selected-1HYmZZ a, .contentSelectedText-3wUhMi{
     background-image: linear-gradient(to right, #260485c2, #00000000); 
     background-color: #00000000;
@@ -27,7 +31,10 @@
     text-decoration: none;
     transition: opacity .5s,color .5s;
 }
-
+.headerTop-3C2Zn0 {
+    padding: 20px 10px;
+    height: 190px;
+}
 .large-3ChYtB{
     height: 45px;
     width: 45px;
